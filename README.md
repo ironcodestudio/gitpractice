@@ -1,0 +1,208 @@
+Git Practice
+============
+
+When I started using Git and participating in projects on
+[GitHub](http://github.com), I found the process cryptic and intimidating.
+
+There are lots of great resources to help you learn but the best learning is
+doing.  To that end, I've created this repo to help others practice.
+
+Below you'll find a list of words that should be spelled correctly, they are
+not.  Specifically, each word has "zz" prepended to it.
+
+I invite you to submit a pull request to correct one mispelled word.  Pull
+requests to correct more than one word at a time will be rejected.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on the standards
+followed for contributions to this project.
+
+List of Words that Should be Spelled Correctly
+----------------------------------------------
+
+- zzabout
+- zzafter
+- zzagain
+- zzair
+- zzall
+- zzalong
+- zzalso
+- zzan
+- zzand
+- zzanother
+- zzany
+- zzare
+- zzaround
+- zzas
+- zzat
+- zzaway
+- zzback
+- zzbe
+- zzbecause
+- zzbeen
+- zzbefore
+- zzbelow
+- zzbetween
+- zzboth
+- zzbut
+- zzby
+- zzcame
+- zzcan
+- zzcome
+- zzcould
+- zzday
+- zzdid
+- zzdifferent
+- zzdo
+- zzdoes
+- zzdon't
+- zzdown
+- zzeach
+- zzend
+- zzeven
+- zzevery
+- zzfew
+- zzfind
+- zzfirst
+- zzfor
+- zzfound
+- zzfrom
+- zzget
+- zzgive
+- zzgo
+- zzgood
+- zzgreat
+- zzhad
+- zzhas
+- zzhave
+- zzhe
+- zzhelp
+- zzher
+- zzhere
+- zzhim
+- zzhis
+- zzhome
+- zzhouse
+- zzhow
+- zzI
+- zzif
+- zzin
+- zzinto
+- zzis
+- zzit
+- zzits
+- zzjust
+- zzknow
+- zzlarge
+- zzlast
+- zzleft
+- zzlike
+- zzline
+- zzlittle
+- zzlong
+- zzlook
+- zzmade
+- zzmake
+- zzman
+- zzmany
+- zzmay
+- zzme
+- zzmen
+- zzmight
+- zzmore
+- zzmost
+- zzMr.
+- zzmust
+- zzmy
+- zzname
+- zznever
+- zznew
+- zznext
+- zzno
+- zznot
+- zznow
+- zznumber
+- zzof
+- zzoff
+- zzold
+- zzon
+- zzone
+- zzonly
+- zzor
+- zzother
+- zzour
+- zzout
+- zzover
+- zzown
+- zzpart
+- zzpeople
+- zzplace
+- zzput
+- zzread
+- zzright
+- zzsaid
+- zzsame
+- zzsaw
+- zzsay
+- zzsee
+- zzshe
+- zzshould
+- zzshow
+- zzsmall
+- zzso
+- zzsome
+- zzsomething
+- zzsound
+- zzstill
+- zzsuch
+- zztake
+- zztell
+- zzthan
+- zzthat
+- zzthe
+- zzthem
+- zzthen
+- zzthere
+- zzthese
+- zzthey
+- zzthing
+- zzthink
+- zzthis
+- zzthose
+- zzthought
+- zzthree
+- zzthrough
+- zztime
+- zzto
+- zztogether
+- zztoo
+- zztwo
+- zzunder
+- zzup
+- zzus
+- zzuse
+- zzvery
+- zzwant
+- zzwater
+- zzway
+- zzwe
+- zzwell
+- zzwent
+- zzwere
+- zzwhat
+- zzwhen
+- zzwhere
+- zzwhich
+- zzwhile
+- zzwho
+- zzwhy
+- zzwill
+- zzwith
+- zzword
+- zzwork
+- zzworld
+- zzwould
+- zzwrite
+- zzyear
+- zzyou
+- zzyour
+- zzwas
