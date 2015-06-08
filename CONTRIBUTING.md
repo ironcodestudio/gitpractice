@@ -9,7 +9,7 @@ projects managed via Git.
 Open An Issue
 -------------
 
-Please [open an issue](/issues) before
+Please [open an issue](../../issues) before
 submitting your Pull Request.  An issue provides a place for discussion
 about the problem.  Sometimes a clarification or discussion of the problem
 significantly impacts how it is fixed (or if it is fixed at all), making this
