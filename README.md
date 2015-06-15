@@ -21,7 +21,7 @@ List of Words that Should be Spelled Correctly
 
 - zzabout
 - zzafter
-- zzagain
+- again
 - zzair
 - zzall
 - zzalong
