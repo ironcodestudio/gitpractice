@@ -182,7 +182,7 @@ List of Words that Should be Spelled Correctly
 - zzuse
 - zzvery
 - zzwant
-- zzwater
+- water
 - zzway
 - zzwe
 - zzwell
