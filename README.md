@@ -19,7 +19,7 @@ followed for contributions to this project.
 List of Words that Should be Spelled Correctly
 ----------------------------------------------
 
-- zzabout
+- about
 - zzafter
 - zzagain
 - zzair
