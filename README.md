@@ -20,7 +20,7 @@ List of Words that Should be Spelled Correctly
 ----------------------------------------------
 
 - about
-- zzafter
+- after
 - zzagain
 - zzair
 - zzall
