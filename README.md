@@ -23,7 +23,7 @@ List of Words that Should be Spelled Correctly
 - zzafter
 - zzagain
 - zzair
-- zzall
+- all
 - zzalong
 - zzalso
 - zzan
